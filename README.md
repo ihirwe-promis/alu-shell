@@ -1,1 +1,1 @@
-ALU Shell basics project
+shell i/o redirections and filters project
