@@ -1,4 +1,2 @@
 #!/usr/bin/env bash
-# priinting out all running processes even for other users
-
-ps -e | grep -v "bash"
+:
